@@ -8,9 +8,9 @@ export default function AboutSection() {
   const labels = {
     en: {
       badge: "BIOGRAPHY & BACKGROUND",
-      title: "ABOUT HADEN",
+      title: "ABOUT HAYDEN",
       tagline: "Industrial Design Graduate Student exploring product design, HMI, and AI-assisted design workflows.",
-      p1: "I am Haden, an Industrial Design Graduate Student from Singapore. My background combines mechatronics engineering and industrial design, allowing me to approach design from both technical systems and human-centered experience.",
+      p1: "I am Hayden, an Industrial Design Graduate Student from Singapore. My background combines mechatronics engineering and industrial design, allowing me to approach design from both technical systems and human-centered experience.",
       p2: "I received my undergraduate education in Mechatronics at Singapore Institute of Technology, and I am currently pursuing a master’s degree in Industrial Design at Ocean University of China. My current work focuses on industrial design, HMI, UI/UX, visual attention research, and AI-assisted design workflows.",
       p3: "I approach design as a process of deconstructing complex problems, building system-level models, and translating research insights into visual, interactive, and product-level decisions.",
       more: "More About Me",
@@ -34,9 +34,9 @@ export default function AboutSection() {
     },
     zh: {
       badge: "人物简历与学科背景",
-      title: "关于 HADEN",
+      title: "关于 HAYDEN",
       tagline: "工业设计在读研究生 · 致力于机电工程系统与人因设计的深度交融。",
-      p1: "我是 Haden，来自新加坡。我的学术路径横跨机电一体化工程（Mechatronics Engineering）与专业工业设计系统，使我能够同时从“底层技术逻辑”与“上层人本体验”构思产品与窗口层级。",
+      p1: "我是 Hayden，来自新加坡。我的学术路径横跨机电一体化工程（Mechatronics Engineering）与专业工业设计系统，使我能够同时从“底层技术逻辑”与“上层人本体验”构思产品与窗口层级。",
       p2: "本科毕业于新加坡理工大学（SIT）机电专业，现正于中国海洋大学攻读工业设计硕士研究生。当前核心课题涵盖特种载具HMI设计优化、智能装备形态推敲、红外眼动追踪验证以及AI辅助全闭环代码工作流。",
       p3: "我将设计视作解构模糊现实挑战的科学过程。通过搭建关系模型，将干涩的实证眼动物理指标翻译为富有感官弹性、高度易用的交互实物和图形设计决策。",
       more: "探索更多关于我",
@@ -164,7 +164,7 @@ export default function AboutSection() {
                 <div className="space-y-1">
                   <div className="flex items-center justify-center sm:justify-start gap-2">
                     <h3 className="text-2xl font-bold tracking-tight text-white uppercase font-sora">
-                      Haden
+                      Hayden
                     </h3>
                     <span className="w-1.5 h-1.5 rounded-full bg-primary" />
                   </div>
@@ -194,7 +194,7 @@ export default function AboutSection() {
                 <div className="space-y-2 text-xs md:text-sm text-muted-foreground pl-6.5">
                   <div className="flex justify-between items-center py-0.5 border-b border-white/5">
                     <span>{t.pName}</span>
-                    <span className="text-white font-medium">Haden</span>
+                    <span className="text-white font-medium">Hayden</span>
                   </div>
                   <div className="flex justify-between items-center py-0.5 border-b border-white/5">
                     <span>{t.pIdent}</span>

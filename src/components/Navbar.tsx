@@ -22,7 +22,7 @@ export default function Navbar() {
       {/* Left: Logo */}
       <div className="pointer-events-auto">
         <a href="#" className="text-foreground text-base md:text-lg font-semibold tracking-tight uppercase hover:opacity-80 transition-opacity">
-          HADEN DESIGN
+          HAYDEN DESIGN
         </a>
       </div>
 

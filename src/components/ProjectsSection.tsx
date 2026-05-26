@@ -172,7 +172,7 @@ export default function ProjectsSection() {
                       <div className="absolute inset-0 bg-gradient-to-tr from-primary/5 via-background to-background group-hover:scale-110 transition-transform duration-700" />
                       {/* Code and system boxes */}
                       <div className="grid grid-cols-4 gap-2 w-48 h-20 opacity-40 font-mono text-[8px] text-white/60 p-2 border border-white/5 rounded-xs bg-black/40">
-                        <div className="col-span-2 border border-primary/30 p-1 rounded-xs">{"{ haden.design }"}</div>
+                        <div className="col-span-2 border border-primary/30 p-1 rounded-xs">{"{ hayden.design }"}</div>
                         <div className="border border-white/10 p-1 flex items-center justify-center">V1</div>
                         <div className="border border-white/10 p-1 flex items-center justify-center">AI</div>
                         <div className="col-span-4 bg-primary/10 text-primary border border-primary/20 p-1 rounded-xs flex items-center justify-between">

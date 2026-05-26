@@ -48,7 +48,7 @@ export default function HeroSection() {
           className="text-[clamp(3rem,8vw,6rem)] font-bold leading-[1.05] tracking-[-0.05em] text-foreground mb-1 uppercase opacity-0 animate-fade-up"
           style={{ animationDelay: "0.2s" }}
         >
-          HADEN <span className="text-primary font-bold">DESIGN</span>
+          HAYDEN <span className="text-primary font-bold">DESIGN</span>
         </h1>
 
         {/* Industrial Design · HMI · AI-assisted Design Label */}

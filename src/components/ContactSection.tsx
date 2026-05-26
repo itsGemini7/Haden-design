@@ -199,7 +199,7 @@ export default function ContactSection() {
             <div className="space-y-2">
               <div className="flex items-center gap-2">
                 <span className="font-sora font-extrabold text-lg text-white uppercase tracking-wider">
-                  HADEN<span className="text-primary">.DESIGN</span>
+                  HAYDEN<span className="text-primary">.DESIGN</span>
                 </span>
               </div>
               <p className="text-[11px] font-mono text-muted-foreground/60 tracking-wider uppercase">
@@ -224,7 +224,7 @@ export default function ContactSection() {
           {/* Copyright Row */}
           <div className="flex flex-col sm:flex-row justify-between items-center pt-6 border-t border-border/10 text-[11px] font-mono text-muted-foreground/45 gap-4">
             <div>
-              &copy; 2026 Haden Design. {t.rights}
+              &copy; 2026 Hayden Design. {t.rights}
             </div>
             <div className="flex gap-4">
               <span className="hover:text-white transition-colors cursor-default">PORTFOLIO V1.0</span>
